@@ -1,0 +1,52 @@
+.corpod{
+    display: flex;
+    justify-content: space-around;
+    background-image: -moz-linear-gradient(rgb(245, 196, 196), white);
+}
+
+.but{
+    width: 25%;
+    color: black;
+    background-color: red;
+}
+
+.liz{
+    display: flex;
+    justify-content: space-around;
+    background-image: -moz-linear-gradient(rgb(250, 146, 120), white);
+}
+
+.but2{
+    width: 20%;
+    color: black;
+    background-color: red;
+}
+.eau{
+    display: flex;
+    justify-content: space-around;
+    background-image: -moz-linear-gradient(rgb(252, 199, 174), white);
+}
+
+.but3{
+    width: 11%;
+    color: black;
+    background-color: red; 
+}
+
+.body{
+    display: flex;
+    justify-content: space-around;
+    background-image: -moz-linear-gradient(rgb(248, 121, 200), white);
+}
+
+.mont{
+    display: flex;
+    justify-content: space-around;
+    background-image: -moz-linear-gradient(rgb(201, 112, 40), white)
+}
+
+.vers{
+    display: flex;
+    justify-content: space-around;
+    background-image: -moz-linear-gradient(rgb(66, 64, 63), white)
+}
